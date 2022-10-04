@@ -22,7 +22,7 @@ import { useState } from "react";
 
 export default function Post() {
 
-// const [color, setColor] = useState('white');
+const [color, setColor] = useState('white');
  
 
   return (
